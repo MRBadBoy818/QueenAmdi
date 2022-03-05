@@ -5,7 +5,7 @@
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
     <br>
-        <a href="https://chat.whatsapp.com/FufFv6v1M288le5TopCNMQ">Whatsapp Group</a> 
+        <a href="https://chat.whatsapp.com/GzSA2hGWfOCB3SkHuo6n7C">Whatsapp Group</a> 
     <br>
 </p>
 
