@@ -17,6 +17,7 @@
 </div>
 
 	
+
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
 
