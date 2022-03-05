@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.ibb.co/YdF3gZg/pp.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
+  <h1>꧁༺ ♥️♠️𝓜𝓡.𝓑𝓪𝓭_𝓑𝓸𝔂®♠️♥️ ༻꧂</h1>
 </div>
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
@@ -18,7 +18,7 @@
 
 ----
 <div align="center">
-	<h2>Queen Amdi v3 whatsapp bot (Old bot without buttons) :</h1>
+	<h2>♥️♠️MR.Bad_Boy®♠️♥️ v3 whatsapp bot (Old bot without buttons) :</h1>
 	
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
