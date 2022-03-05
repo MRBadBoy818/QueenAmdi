@@ -20,3 +20,14 @@
 <div align="center">
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
+
+	
+	<p align="center">
+  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+    <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
+  </a>
+  <a href="https://github.com/BlackAmda/QueenAmdi">
+    <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
+    
+  </a>
+</p>
